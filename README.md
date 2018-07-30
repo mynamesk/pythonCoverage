@@ -1,4 +1,4 @@
-# pythonCoverage-
+# pythonCoverage
 此文主要目的是简单使用python中的coverage模块进行覆盖率的测试
 ## coverage command
 * coverage run somefile.py
